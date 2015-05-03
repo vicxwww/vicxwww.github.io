@@ -17,8 +17,8 @@ html * {
 body {
   font-size: 100%;
   font-family: "Droid Serif", serif;
-  color: #7f8c97;
-  background-color: #e9f0f5;
+  color: black;
+  background-color: white;
 }
 
 a {
@@ -281,8 +281,8 @@ header h1 {
 .cd-timeline-content .cd-date {
   float: left;
   padding: .8em 0;
-  opacity: .7;
 }
+
 .cd-timeline-content::before {
   content: '';
   position: absolute;
